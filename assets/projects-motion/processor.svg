@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="210" viewBox="0 0 600 210" role="img" aria-labelledby="title desc">
+  <title id="title">3-stage RISC-V processor</title><desc id="desc">A three-stage pipelined processor implemented in SystemVerilog. Independent project.</desc>
+  <rect x="2" y="2" width="596" height="206" rx="16" fill="#1b1b23" stroke="#333d4a" stroke-width="2"/>
+  <rect x="18" y="22" width="150" height="166" rx="12" fill="#20242b"/>
+  <g fill="#292f3a" stroke="#83b8f2" stroke-width="2.5"><rect x="34" y="82" width="32" height="42" rx="5"/><rect x="77" y="82" width="32" height="42" rx="5"/><rect x="120" y="82" width="32" height="42" rx="5"/></g>
+  <g fill="#d7eaff" font-family="Arial,sans-serif" font-size="7" text-anchor="middle"><text x="50" y="106">IF</text><text x="93" y="106">EX</text><text x="136" y="106">MEM</text></g>
+  <path d="M66 103h11M109 103h11" stroke="#83b8f2" stroke-width="2.5"/>
+  <circle r="3.5" fill="#d7eaff"><animateMotion dur="2.4s" repeatCount="indefinite" path="M66 103h11M109 103h11"/></circle>
+  <text x="190" y="44" fill="#9cc7f5" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.4">04 / COMPUTER ENGINEERING</text>
+  <text x="190" y="83" fill="#f4f2ee" font-family="Arial,sans-serif" font-size="24" font-weight="700">3-stage RISC-V processor</text>
+  <text x="190" y="116" fill="#c4c2ce" font-family="Arial,sans-serif" font-size="15">Decode → execute → memory</text>
+  <text x="190" y="147" fill="#a9a5b8" font-family="Arial,sans-serif" font-size="13">SystemVerilog · RISC-V</text>
+  <text x="190" y="181" fill="#9cc7f5" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1">INDEPENDENT PROJECT</text>
+</svg>

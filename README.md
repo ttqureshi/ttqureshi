@@ -13,35 +13,22 @@ I build AI systems that connect models to useful products: agents that use tools
 ### The systems I build
 
 <img src="assets/systems-visual.svg" width="100%" alt="Four areas I build in: agent workflows with oversight, retrieval and search, backend and cloud systems, and applied computer vision." />
----
+<hr />
 
 ### Selected work
 
-<a href="https://tayyab-portfolio-delta.vercel.app/#nightshift"><img src="assets/project-nightshift.svg" width="100%" alt="Nightshift Agents — documents and email to tool use and human approval. View engineering notes." /></a>
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://tayyab-portfolio-delta.vercel.app/#nightshift"><img src="assets/projects-motion/nightshift.svg" width="100%" alt="Nightshift Agents: documents and email flow through agent tools to human approval. Professional case study." /></a></td>
+<td width="50%" valign="top"><a href="https://tayyab-portfolio-delta.vercel.app/#helpdesk"><img src="assets/projects-motion/helpdesk.svg" width="100%" alt="IT Helpdesk Agent: route requests to retrieval, integrations, or escalation. Professional case study." /></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/ttqureshi/Real-Time-Semantic-Segmentation-and-Vision-based-Heading-Controller"><img src="assets/projects-motion/vision.svg" width="100%" alt="Vision-based heading control: segmentation and optical flow guide a controller. Independent project." /></a></td>
+<td width="50%" valign="top"><a href="https://github.com/ttqureshi/3-stage-pipelined-32-bit-Processor-RISC-V-ISA-"><img src="assets/projects-motion/processor.svg" width="100%" alt="3-stage RISC-V processor: pipelined SystemVerilog implementation. Independent project." /></a></td>
+</tr>
+</table>
 
-**[Nightshift Agents ↗](https://tayyab-portfolio-delta.vercel.app/#nightshift)** · Agent orchestration with a custom MCP gateway, Bedrock reasoning, human approval and audit logging.  
-`Amazon Bedrock` `MCP` `n8n` `AWS ECS` `Terraform`  
-<sub>Professional work at Arbisoft · portfolio case study</sub>
-
-<a href="https://tayyab-portfolio-delta.vercel.app/#helpdesk"><img src="assets/project-helpdesk.svg" width="100%" alt="IT Helpdesk Agent — classify requests, retrieve knowledge or use integrations, and escalate when needed. View engineering notes." /></a>
-
-**[IT Helpdesk Agent ↗](https://tayyab-portfolio-delta.vercel.app/#helpdesk)** · A LangGraph system that routes requests through retrieval, integrations or escalation, with PostgreSQL checkpoints.  
-`LangGraph` `ChromaDB` `FastAPI` `PostgreSQL`  
-<sub>Professional work at Arbisoft · portfolio case study</sub>
-
-<a href="https://github.com/ttqureshi/Real-Time-Semantic-Segmentation-and-Vision-based-Heading-Controller"><img src="assets/project-vision.svg" width="100%" alt="From pixels to heading — segmentation and optical flow inform a heading controller. View the public repository." /></a>
-
-**[From pixels to heading ↗](https://github.com/ttqureshi/Real-Time-Semantic-Segmentation-and-Vision-based-Heading-Controller)** · Semantic segmentation and optical flow feed a PD yaw controller.  
-`PyTorch` `OpenCV` `PIDNet`  
-<sub>Independent work · public repository</sub>
-
-<a href="https://github.com/ttqureshi/3-stage-pipelined-32-bit-Processor-RISC-V-ISA-"><img src="assets/project-processor.svg" width="100%" alt="3-stage RISC-V processor — a pipelined processor implemented in SystemVerilog. View the public repository." /></a>
-
-**[3-stage RISC-V processor ↗](https://github.com/ttqureshi/3-stage-pipelined-32-bit-Processor-RISC-V-ISA-)** · A pipelined processor implementation with interrupt handling and simulation tests.  
-`SystemVerilog` `RISC-V`  
-<sub>Independent work · public repository</sub>
-
----
+<hr />
 
 ### Tools I reach for
 
