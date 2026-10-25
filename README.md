@@ -49,15 +49,15 @@ I build AI systems that connect models to useful products: agents that use tools
 
 **AI / ML**
 
-<p><span><img src="assets/icons/langgraph.svg" width="24" height="24" alt="" /> LangGraph</span> &nbsp;&nbsp; <span><img src="assets/icons/langchain.svg" width="24" height="24" alt="" /> LangChain</span> &nbsp;&nbsp; <span><img src="assets/icons/modelcontextprotocol.svg" width="24" height="24" alt="" /> MCP</span> &nbsp;&nbsp; <span><img src="assets/icons/pytorch.svg" width="24" height="24" alt="" /> PyTorch</span> &nbsp;&nbsp; <span><img src="assets/icons/opencv.svg" width="24" height="24" alt="" /> OpenCV</span></p>
+<p><img src="assets/icons/langgraph.svg" width="28" height="28" title="LangGraph" alt="LangGraph" /> &nbsp;&nbsp; <img src="assets/icons/langchain.svg" width="28" height="28" title="LangChain" alt="LangChain" /> &nbsp;&nbsp; <img src="assets/icons/modelcontextprotocol.svg" width="28" height="28" title="Model Context Protocol" alt="MCP" /> &nbsp;&nbsp; <img src="assets/icons/pytorch.svg" width="28" height="28" title="PyTorch" alt="PyTorch" /> &nbsp;&nbsp; <img src="assets/icons/opencv.svg" width="28" height="28" title="OpenCV" alt="OpenCV" /></p>
 
 **Backend**
 
-<p><span><img src="assets/icons/python.svg" width="24" height="24" alt="" /> Python</span> &nbsp;&nbsp; <span><img src="assets/icons/fastapi.svg" width="24" height="24" alt="" /> FastAPI</span> &nbsp;&nbsp; <span><img src="assets/icons/django.svg" width="24" height="24" alt="" /> Django</span> &nbsp;&nbsp; <span><img src="assets/icons/postgresql.svg" width="24" height="24" alt="" /> PostgreSQL</span> &nbsp;&nbsp; <span><img src="assets/icons/redis.svg" width="24" height="24" alt="" /> Redis</span></p>
+<p><img src="assets/icons/python.svg" width="28" height="28" title="Python" alt="Python" /> &nbsp;&nbsp; <img src="assets/icons/fastapi.svg" width="28" height="28" title="FastAPI" alt="FastAPI" /> &nbsp;&nbsp; <img src="assets/icons/django.svg" width="28" height="28" title="Django" alt="Django" /> &nbsp;&nbsp; <img src="assets/icons/postgresql.svg" width="28" height="28" title="PostgreSQL" alt="PostgreSQL" /> &nbsp;&nbsp; <img src="assets/icons/redis.svg" width="28" height="28" title="Redis" alt="Redis" /></p>
 
 **Infrastructure**
 
-<p><span><img src="assets/icons/amazonwebservices.svg" width="24" height="24" alt="" /> AWS</span> &nbsp;&nbsp; <span><img src="assets/icons/docker.svg" width="24" height="24" alt="" /> Docker</span> &nbsp;&nbsp; <span><img src="assets/icons/terraform.svg" width="24" height="24" alt="" /> Terraform</span> &nbsp;&nbsp; <span><img src="assets/icons/git.svg" width="24" height="24" alt="" /> Git</span></p>
+<p><img src="assets/icons/amazonwebservices.svg" width="28" height="28" title="Amazon Web Services" alt="AWS" /> &nbsp;&nbsp; <img src="assets/icons/docker.svg" width="28" height="28" title="Docker" alt="Docker" /> &nbsp;&nbsp; <img src="assets/icons/terraform.svg" width="28" height="28" title="Terraform" alt="Terraform" /> &nbsp;&nbsp; <img src="assets/icons/git.svg" width="28" height="28" title="Git" alt="Git" /></p>
 
 <div align="center">
   <p>Interested in how these systems are built?</p>
