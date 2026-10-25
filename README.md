@@ -47,9 +47,17 @@ I build AI systems that connect models to useful products: agents that use tools
 
 ### Tools I reach for
 
-**AI / ML** &nbsp; `LangGraph` `LangChain` `MCP` `PyTorch` `OpenCV`  
-**Backend** &nbsp; `Python` `FastAPI` `Django` `PostgreSQL` `Redis`  
-**Infrastructure** &nbsp; `AWS` `Docker` `Terraform` `Git`
+**AI / ML**
+
+<p><span><img src="assets/icons/langgraph.svg" width="24" height="24" alt="" /> LangGraph</span> &nbsp;&nbsp; <span><img src="assets/icons/langchain.svg" width="24" height="24" alt="" /> LangChain</span> &nbsp;&nbsp; <span><img src="assets/icons/modelcontextprotocol.svg" width="24" height="24" alt="" /> MCP</span> &nbsp;&nbsp; <span><img src="assets/icons/pytorch.svg" width="24" height="24" alt="" /> PyTorch</span> &nbsp;&nbsp; <span><img src="assets/icons/opencv.svg" width="24" height="24" alt="" /> OpenCV</span></p>
+
+**Backend**
+
+<p><span><img src="assets/icons/python.svg" width="24" height="24" alt="" /> Python</span> &nbsp;&nbsp; <span><img src="assets/icons/fastapi.svg" width="24" height="24" alt="" /> FastAPI</span> &nbsp;&nbsp; <span><img src="assets/icons/django.svg" width="24" height="24" alt="" /> Django</span> &nbsp;&nbsp; <span><img src="assets/icons/postgresql.svg" width="24" height="24" alt="" /> PostgreSQL</span> &nbsp;&nbsp; <span><img src="assets/icons/redis.svg" width="24" height="24" alt="" /> Redis</span></p>
+
+**Infrastructure**
+
+<p><span><img src="assets/icons/amazonwebservices.svg" width="24" height="24" alt="" /> AWS</span> &nbsp;&nbsp; <span><img src="assets/icons/docker.svg" width="24" height="24" alt="" /> Docker</span> &nbsp;&nbsp; <span><img src="assets/icons/terraform.svg" width="24" height="24" alt="" /> Terraform</span> &nbsp;&nbsp; <span><img src="assets/icons/git.svg" width="24" height="24" alt="" /> Git</span></p>
 
 <div align="center">
   <p>Interested in how these systems are built?</p>
