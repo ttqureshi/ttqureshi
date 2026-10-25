@@ -5,7 +5,7 @@
 <div align="center">
   <h1>Muhammad Tayyab Tahir Qureshi</h1>
   <p><strong>AI &amp; Software Engineer</strong> &nbsp;·&nbsp; Lahore, Pakistan</p>
-  <p><a href="https://tayyab-portfolio-delta.vercel.app/"><strong>Portfolio ↗</strong></a> &nbsp; | &nbsp; <a href="https://www.linkedin.com/in/ttqureshi/">LinkedIn ↗</a> &nbsp; | &nbsp; <a href="https://tayyab-portfolio-delta.vercel.app/assets/Muhammad-Tayyab-Tahir-Qureshi-CV.pdf">Download CV ↓</a> &nbsp; | &nbsp; <a href="mailto:m.tayyabtq@gmail.com">Email ↗</a></p>
+  <p><a href="https://tayyab-portfolio-delta.vercel.app/">Portfolio ↗</a> &nbsp; | &nbsp; <a href="https://www.linkedin.com/in/ttqureshi/">LinkedIn ↗</a> &nbsp; | &nbsp; <a href="https://tayyab-portfolio-delta.vercel.app/assets/Muhammad-Tayyab-Tahir-Qureshi-CV.pdf">Download CV ↓</a> &nbsp; | &nbsp; <a href="mailto:m.tayyabtq@gmail.com">Email ↗</a></p>
 </div>
 
 I build AI systems that connect models to useful products: agents that use tools, retrieval pipelines that make knowledge accessible, and the backend infrastructure that brings it all together. I’m a **Software Engineer at Arbisoft** and an **MS Artificial Intelligence student at LUMS**.
