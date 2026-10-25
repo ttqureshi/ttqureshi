@@ -1,29 +1,57 @@
+<a href="https://tayyab-portfolio-delta.vercel.app/"><img src="assets/profile-hero.svg" width="100%" alt="Muhammad Tayyab Tahir Qureshi — AI and Software Engineer. Context flows through agents and systems with human review." /></a>
+
 <div align="center">
-  <img src="assets/profile-cover.png" alt="Abstract flowing systems artwork in charcoal, lavender, sage, and peach" width="100%" />
+  <h1>Muhammad Tayyab Tahir Qureshi</h1>
+  <p><strong>AI &amp; Software Engineer</strong> &nbsp;·&nbsp; Lahore, Pakistan</p>
+  <p><a href="https://tayyab-portfolio-delta.vercel.app/"><strong>Portfolio ↗</strong></a> &nbsp; | &nbsp; <a href="https://www.linkedin.com/in/ttqureshi/">LinkedIn ↗</a> &nbsp; | &nbsp; <a href="https://tayyab-portfolio-delta.vercel.app/assets/Muhammad-Tayyab-Tahir-Qureshi-CV.pdf">Download CV ↓</a> &nbsp; | &nbsp; <a href="mailto:m.tayyabtq@gmail.com">Email ↗</a></p>
 </div>
 
-# Muhammad Tayyab Tahir Qureshi
+I build AI systems that connect models to useful products: agents that use tools, retrieval pipelines that make knowledge accessible, and the backend infrastructure that brings it all together. I’m a **Software Engineer at Arbisoft** and an **MS Artificial Intelligence student at LUMS**.
 
-**AI & Software Engineer** · Lahore, Pakistan
+### The systems I build
 
-I build AI systems that work beyond a demo: agents with clear human oversight, retrieval that fits into real products, and the backend infrastructure that keeps everything running. I’m a Software Engineer at **Arbisoft** and pursuing an **MS in Artificial Intelligence at LUMS**.
+🟣 **Agents & orchestration** &nbsp; Tool use · Human approval · Auditable workflows  
+🟢 **Retrieval & knowledge** &nbsp; RAG · Document ingestion · Semantic search  
+🟠 **Backend & cloud** &nbsp; APIs · Async workers · AWS infrastructure  
+🔵 **Applied ML** &nbsp; Computer vision · Segmentation · Perception & control
 
-[Portfolio](https://tayyab-portfolio-delta.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ttqureshi/) · [CV](https://tayyab-portfolio-delta.vercel.app/assets/Muhammad-Tayyab-Tahir-Qureshi-CV.pdf) · [Email](mailto:m.tayyabtq@gmail.com)
-
-### What I work on
-
-| Area | Recent work |
-| --- | --- |
-| **Agent systems** | Tool use, workflow orchestration, approval gates, and auditable decisions. |
-| **Retrieval & knowledge** | RAG pipelines, document ingestion, vector search, and conversational support. |
-| **Backend & cloud** | Python services, asynchronous jobs, PostgreSQL, Docker, Terraform, and AWS. |
-| **Computer vision** | Segmentation, optical flow, and vision-based control. |
+---
 
 ### Selected work
 
-- **[Nightshift Agents](https://tayyab-portfolio-delta.vercel.app/#nightshift)** — document and email ingestion, an MCP gateway, Bedrock reasoning, human approval, and audit logging. *Professional work at Arbisoft; architecture notes on my portfolio.*
-- **[IT Helpdesk Agent](https://tayyab-portfolio-delta.vercel.app/#helpdesk)** — LangGraph routing across retrieval, integrations, and escalation, with persistent conversations. *Professional work at Arbisoft; architecture notes on my portfolio.*
-- **[Vision-based heading controller](https://github.com/ttqureshi/Real-Time-Semantic-Segmentation-and-Vision-based-Heading-Controller)** — semantic segmentation and optical flow feeding a PD controller. *Public repository.*
-- **[3-stage RISC-V processor](https://github.com/ttqureshi/3-stage-pipelined-32-bit-Processor-RISC-V-ISA-)** — a pipelined processor implementation in SystemVerilog. *Public repository.*
+<a href="https://tayyab-portfolio-delta.vercel.app/#nightshift"><img src="assets/project-nightshift.svg" width="100%" alt="Nightshift Agents — documents and email to tool use and human approval. View engineering notes." /></a>
 
-I’m interested in the boundary where capable models become dependable software. For more on the design decisions behind these projects, visit [my portfolio](https://tayyab-portfolio-delta.vercel.app/#work).
+**[Nightshift Agents ↗](https://tayyab-portfolio-delta.vercel.app/#nightshift)** · Agent orchestration with a custom MCP gateway, Bedrock reasoning, human approval and audit logging.  
+`Amazon Bedrock` `MCP` `n8n` `AWS ECS` `Terraform`  
+<sub>Professional work at Arbisoft · portfolio case study</sub>
+
+<a href="https://tayyab-portfolio-delta.vercel.app/#helpdesk"><img src="assets/project-helpdesk.svg" width="100%" alt="IT Helpdesk Agent — classify requests, retrieve knowledge or use integrations, and escalate when needed. View engineering notes." /></a>
+
+**[IT Helpdesk Agent ↗](https://tayyab-portfolio-delta.vercel.app/#helpdesk)** · A LangGraph system that routes requests through retrieval, integrations or escalation, with PostgreSQL checkpoints.  
+`LangGraph` `ChromaDB` `FastAPI` `PostgreSQL`  
+<sub>Professional work at Arbisoft · portfolio case study</sub>
+
+<a href="https://github.com/ttqureshi/Real-Time-Semantic-Segmentation-and-Vision-based-Heading-Controller"><img src="assets/project-vision.svg" width="100%" alt="From pixels to heading — segmentation and optical flow inform a heading controller. View the public repository." /></a>
+
+**[From pixels to heading ↗](https://github.com/ttqureshi/Real-Time-Semantic-Segmentation-and-Vision-based-Heading-Controller)** · Semantic segmentation and optical flow feed a PD yaw controller.  
+`PyTorch` `OpenCV` `PIDNet`  
+<sub>Independent work · public repository</sub>
+
+<a href="https://github.com/ttqureshi/3-stage-pipelined-32-bit-Processor-RISC-V-ISA-"><img src="assets/project-processor.svg" width="100%" alt="3-stage RISC-V processor — a pipelined processor implemented in SystemVerilog. View the public repository." /></a>
+
+**[3-stage RISC-V processor ↗](https://github.com/ttqureshi/3-stage-pipelined-32-bit-Processor-RISC-V-ISA-)** · A pipelined processor implementation with interrupt handling and simulation tests.  
+`SystemVerilog` `RISC-V`  
+<sub>Independent work · public repository</sub>
+
+---
+
+### Tools I reach for
+
+**AI / ML** &nbsp; `LangGraph` `LangChain` `MCP` `PyTorch` `OpenCV`  
+**Backend** &nbsp; `Python` `FastAPI` `Django` `PostgreSQL` `Redis`  
+**Infrastructure** &nbsp; `AWS` `Docker` `Terraform` `Git`
+
+<div align="center">
+  <p>Interested in how these systems are built?</p>
+  <p><a href="https://tayyab-portfolio-delta.vercel.app/#work"><strong>Explore the portfolio ↗</strong></a> &nbsp; · &nbsp; <a href="mailto:m.tayyabtq@gmail.com"><strong>Get in touch ↗</strong></a></p>
+</div>
