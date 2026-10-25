@@ -1,5 +1,7 @@
 <a href="https://tayyab-portfolio-delta.vercel.app/"><img src="assets/profile-hero.svg" width="100%" alt="Muhammad Tayyab Tahir Qureshi — AI and Software Engineer. Context flows through agents and systems with human review." /></a>
 
+<img src="assets/profile-motion.svg" width="100%" alt="An animated signal flows from context through agents and systems to human review." />
+
 <div align="center">
   <h1>Muhammad Tayyab Tahir Qureshi</h1>
   <p><strong>AI &amp; Software Engineer</strong> &nbsp;·&nbsp; Lahore, Pakistan</p>

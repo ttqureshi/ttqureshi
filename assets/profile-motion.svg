@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76" role="img" aria-labelledby="title desc">
+  <title id="title">A signal moving through a human-reviewed AI workflow</title>
+  <desc id="desc">An animated signal flows from context through agents and systems to human review.</desc>
+  <rect width="1200" height="76" rx="12" fill="#17171e"/>
+  <path d="M88 25H1112" fill="none" stroke="#4b4659" stroke-width="2" stroke-dasharray="3 12" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" from="0" to="-60" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <g font-family="Arial,sans-serif" font-size="12" font-weight="700" text-anchor="middle" letter-spacing=".6">
+    <circle cx="88" cy="25" r="8" fill="#292536" stroke="#bca9f2" stroke-width="2"/>
+    <text x="88" y="59" fill="#cbbcff">CONTEXT</text>
+    <circle cx="429" cy="25" r="8" fill="#292536" stroke="#64c7b2" stroke-width="2"/>
+    <text x="429" y="59" fill="#9fdfd0">AGENTS</text>
+    <circle cx="770" cy="25" r="8" fill="#292536" stroke="#a8d2b3" stroke-width="2"/>
+    <text x="770" y="59" fill="#b9dec2">SYSTEMS</text>
+    <circle cx="1112" cy="25" r="8" fill="#292536" stroke="#f5aa8c" stroke-width="2"/>
+    <text x="1112" y="59" fill="#f5c5b0">HUMAN REVIEW</text>
+  </g>
+  <circle r="4" fill="#fff2d8">
+    <animateMotion dur="6s" repeatCount="indefinite" path="M88 25H1112"/>
+  </circle>
+</svg>
