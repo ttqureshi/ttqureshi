@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+  <title id="title">The systems I build</title>
+  <desc id="desc">Four areas: agent workflows with oversight, retrieval and search, backend and cloud systems, and applied computer vision.</desc>
+  <g font-family="Arial,sans-serif">
+    <rect x="4" y="6" width="286" height="174" rx="16" fill="#191820" stroke="#393443" stroke-width="2"/>
+    <rect x="306" y="6" width="286" height="174" rx="16" fill="#171d1c" stroke="#34423e" stroke-width="2"/>
+    <rect x="608" y="6" width="286" height="174" rx="16" fill="#201b19" stroke="#493831" stroke-width="2"/>
+    <rect x="910" y="6" width="286" height="174" rx="16" fill="#171b22" stroke="#333d4a" stroke-width="2"/>
+    <g fill="none" stroke="#bca9f2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M42 39h24M54 27v24M42 27l24 24M66 27L42 51"/>
+      <circle cx="42" cy="27" r="4" fill="#bca9f2"/><circle cx="66" cy="27" r="4" fill="#bca9f2"/>
+      <circle cx="42" cy="51" r="4" fill="#bca9f2"/><circle cx="66" cy="51" r="4" fill="#bca9f2"/>
+    </g>
+    <g fill="none" stroke="#64c7b2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M346 25h27v34h-27zM353 33h13M353 40h13M353 47h8"/><circle cx="375" cy="49" r="10"/><path d="m382 56 7 7"/>
+    </g>
+    <g fill="none" stroke="#f5aa8c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="648" y="25" width="34" height="14" rx="3"/><rect x="648" y="46" width="34" height="14" rx="3"/><path d="M656 32h2M656 53h2M664 32h11M664 53h11"/>
+    </g>
+    <g fill="none" stroke="#83b8f2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M951 42c10-16 28-16 38 0-10 16-28 16-38 0Z"/><circle cx="970" cy="42" r="6"/><path d="M970 29v-5M970 60v-5M948 42h-5M997 42h-5"/>
+    </g>
+    <g fill="#f3f1ee" font-size="18" font-weight="700">
+      <text x="84" y="44">Agent workflows</text><text x="395" y="44">Retrieval</text><text x="700" y="44">Backend &amp; cloud</text><text x="1018" y="44">Applied ML</text>
+    </g>
+    <g fill="#aaa8b5" font-size="14">
+      <text x="28" y="105">Tools · approval · audit</text><text x="330" y="105">RAG · documents · search</text><text x="632" y="105">APIs · async · AWS</text><text x="934" y="105">Vision · segmentation · control</text>
+    </g>
+    <rect x="28" y="145" width="42" height="3" rx="2" fill="#bca9f2"/><rect x="330" y="145" width="42" height="3" rx="2" fill="#64c7b2"/><rect x="632" y="145" width="42" height="3" rx="2" fill="#f5aa8c"/><rect x="934" y="145" width="42" height="3" rx="2" fill="#83b8f2"/>
+  </g>
+</svg>

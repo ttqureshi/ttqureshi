@@ -12,11 +12,7 @@ I build AI systems that connect models to useful products: agents that use tools
 
 ### The systems I build
 
-🟣 **Agents & orchestration** &nbsp; Tool use · Human approval · Auditable workflows  
-🟢 **Retrieval & knowledge** &nbsp; RAG · Document ingestion · Semantic search  
-🟠 **Backend & cloud** &nbsp; APIs · Async workers · AWS infrastructure  
-🔵 **Applied ML** &nbsp; Computer vision · Segmentation · Perception & control
-
+<img src="assets/systems-visual.svg" width="100%" alt="Four areas I build in: agent workflows with oversight, retrieval and search, backend and cloud systems, and applied computer vision." />
 ---
 
 ### Selected work
