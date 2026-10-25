@@ -47,17 +47,14 @@ I build AI systems that connect models to useful products: agents that use tools
 
 ### Tools I reach for
 
-**AI / ML**
+<p align="center"><strong>AI / ML</strong></p>
+<p align="center"><img src="assets/icons/brand/langgraph.svg" width="32" height="32" title="LangGraph" alt="LangGraph" /> &nbsp;&nbsp;&nbsp; <img src="assets/icons/brand/langchain.svg" width="32" height="32" title="LangChain" alt="LangChain" /> &nbsp;&nbsp;&nbsp; <img src="assets/icons/brand/modelcontextprotocol.svg" width="32" height="32" title="Model Context Protocol" alt="MCP" /> &nbsp;&nbsp;&nbsp; <img src="assets/icons/brand/pytorch.svg" width="32" height="32" title="PyTorch" alt="PyTorch" /> &nbsp;&nbsp;&nbsp; <img src="assets/icons/brand/opencv.svg" width="32" height="32" title="OpenCV" alt="OpenCV" /></p>
 
-<p><img src="assets/icons/brand/langgraph.svg" width="28" height="28" title="LangGraph" alt="LangGraph" /> &nbsp;&nbsp; <img src="assets/icons/brand/langchain.svg" width="28" height="28" title="LangChain" alt="LangChain" /> &nbsp;&nbsp; <img src="assets/icons/brand/modelcontextprotocol.svg" width="28" height="28" title="Model Context Protocol" alt="MCP" /> &nbsp;&nbsp; <img src="assets/icons/brand/pytorch.svg" width="28" height="28" title="PyTorch" alt="PyTorch" /> &nbsp;&nbsp; <img src="assets/icons/brand/opencv.svg" width="28" height="28" title="OpenCV" alt="OpenCV" /></p>
+<p align="center"><strong>Backend</strong></p>
+<p align="center"><img src="assets/icons/brand/python.svg" width="32" height="32" title="Python" alt="Python" /> &nbsp;&nbsp;&nbsp; <img src="assets/icons/brand/fastapi.svg" width="32" height="32" title="FastAPI" alt="FastAPI" /> &nbsp;&nbsp;&nbsp; <img src="assets/icons/brand/django.svg" width="32" height="32" title="Django" alt="Django" /> &nbsp;&nbsp;&nbsp; <img src="assets/icons/brand/postgresql.svg" width="32" height="32" title="PostgreSQL" alt="PostgreSQL" /> &nbsp;&nbsp;&nbsp; <img src="assets/icons/brand/redis.svg" width="32" height="32" title="Redis" alt="Redis" /></p>
 
-**Backend**
-
-<p><img src="assets/icons/brand/python.svg" width="28" height="28" title="Python" alt="Python" /> &nbsp;&nbsp; <img src="assets/icons/brand/fastapi.svg" width="28" height="28" title="FastAPI" alt="FastAPI" /> &nbsp;&nbsp; <img src="assets/icons/brand/django.svg" width="28" height="28" title="Django" alt="Django" /> &nbsp;&nbsp; <img src="assets/icons/brand/postgresql.svg" width="28" height="28" title="PostgreSQL" alt="PostgreSQL" /> &nbsp;&nbsp; <img src="assets/icons/brand/redis.svg" width="28" height="28" title="Redis" alt="Redis" /></p>
-
-**Infrastructure**
-
-<p><img src="assets/icons/brand/amazonwebservices.svg" width="28" height="28" title="Amazon Web Services" alt="AWS" /> &nbsp;&nbsp; <img src="assets/icons/brand/docker.svg" width="28" height="28" title="Docker" alt="Docker" /> &nbsp;&nbsp; <img src="assets/icons/brand/terraform.svg" width="28" height="28" title="Terraform" alt="Terraform" /> &nbsp;&nbsp; <img src="assets/icons/brand/git.svg" width="28" height="28" title="Git" alt="Git" /></p>
+<p align="center"><strong>Infrastructure</strong></p>
+<p align="center"><img src="assets/icons/brand/amazonwebservices.svg" width="32" height="32" title="Amazon Web Services" alt="AWS" /> &nbsp;&nbsp;&nbsp; <img src="assets/icons/brand/docker.svg" width="32" height="32" title="Docker" alt="Docker" /> &nbsp;&nbsp;&nbsp; <img src="assets/icons/brand/terraform.svg" width="32" height="32" title="Terraform" alt="Terraform" /> &nbsp;&nbsp;&nbsp; <img src="assets/icons/brand/git.svg" width="32" height="32" title="Git" alt="Git" /></p>
 
 <div align="center">
   <p>Interested in how these systems are built?</p>
